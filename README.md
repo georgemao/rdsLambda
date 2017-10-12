@@ -12,4 +12,6 @@ test
 
 ## Resources
 
-- **asdfasf** - asdfsadfasdf
+- **rdsTestFn.js** - NodeJS Based Lambda function that connects to RDS and performs a simple SELECT statement
+- **myrdstest.py** - Python Based Lambda function that connects to RDS and performs a simple SELECT statement
+
