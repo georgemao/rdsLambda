@@ -10,8 +10,8 @@ rds = boto3.client('rds')
 
 rds = boto3.client(
     'rds',
-    aws_access_key_id='AKIAIG5Y4FGPBU5WSORQ',
-    aws_secret_access_key='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'
+    aws_access_key_id='SOMEKEY',
+    aws_secret_access_key='SOMETHING'
 )
 
 
